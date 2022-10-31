@@ -1,0 +1,87 @@
+body{
+    font-family: sans-serif;
+}
+
+header,footer{
+    position:absolute;
+    background-color: black;
+    width:100%;
+    color:white;
+}*{
+    margin:0;
+    padding:0;
+}
+
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left: 1%;
+}
+header{
+    height: 10vh;
+}
+
+footer{
+    height: 15vh;
+    margin: bottom 0%;
+}
+
+footer h2{
+    position:absolute;
+    left:40%;
+    font-weight: 10%;
+    font-size: 14px;
+    margin-top: 7.5vh;
+}
+
+
+.nav{
+    position:absolute;
+    width:100%;
+}
+
+.nav a{
+    position:relative;
+    left: 80%;
+    top:25px;
+    color:white;
+    text-decoration: none;
+    margin-right:20px;
+}
+
+.img-background{
+    max-width: 100%;
+   }
+
+.textOnImage{
+   position:absolute;
+   top:300px;
+   left:10%;
+   font-size: 72pt;
+   font-weight: bold;
+   color:white;
+   /*background-color: red; */
+   list-style: none;
+} 
+.canberra{
+    position:absolute;
+    top:70px;
+}
+
+.cottege{
+    max-width:100%;
+    /*position:relative;
+    top:0px;*/
+}
+
+.hospital{
+    max-width: 100%;
+}
+
+.hotel{
+    max-width: 100%;
+}
+
+.anatomy{
+    max-width: 100%;
+}
